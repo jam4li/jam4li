@@ -69,11 +69,7 @@ I enjoy contributing to open source and building practical side projects that co
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jam4li&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jam4li&theme=default&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jam4li&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
 </p>
 
